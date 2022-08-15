@@ -1,0 +1,21 @@
+# Dummy yarn.lock file
+
+"a@^1.0.0":
+  "integrity" "sha512"
+  "resolved" "https://dummy.org"
+  "version" "1.0.1"
+  dependencies:
+    "b" "^2.0.0"
+    "c" "^3.0.0"
+
+"b@^2.0.0":
+  "integrity" "sha512"
+  "resolved" "https://dummy.org"
+  "version" "2.0.1"
+  dependencies:
+    "c" "^4.0.0"
+
+"c@^3.0.0", "c@^4.0.0":
+  "integrity" "sha512"
+  "resolved" "https://dummy.org"
+  "version" "4.0.1"
